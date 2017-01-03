@@ -6,7 +6,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Using the current direct commit technique, some changes added to master
+    are not fully tested and might break existing code. However, if they are fully tested, I'm not
+    sure why there is no feature in git to keep the master branch current.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
