@@ -65,5 +65,12 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
   I want to master the more complicated aspects of git, including git flow and rebasing
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+  New features from one branch are merged into the other. The are represented with converging lines because
+  the two branches are combined.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+  Merge conflicts are harder to solve, and when you're doing them manually you have to actually find out how
+  the code is working
